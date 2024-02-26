@@ -33,3 +33,22 @@ Agriculture AI - model finetuning part
 
 Sau khi ta đã có model hoàn thiện sẽ kéo model qua website để demo.
 
+# Data format
+
+    ```json
+    [
+        {
+            "instruction": "Hãy tính tổng 2 số",
+            "input":"2,3",
+            "output":"Tổng là 5"
+
+        },
+        {
+            "instruction": "Hãy tính tổng 2 số",
+            "input":"4,6",
+            "output":"Tổng là 10"
+            
+        }
+    ]
+    ```
+
