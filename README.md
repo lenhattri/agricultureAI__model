@@ -29,6 +29,7 @@ Agriculture AI - model finetuning part
 - Chuyển dữ liệu thô thành các các ma trận vector.
 - Tiến hành tinh chỉnh model.
 - Test model .
+- 
 **Các bước thực hiện:** Cào một lượng data nhỏ -> Finetuning(Tinh chỉnh, training model) -> Chạy thử -> Thay đổi thông số và cào thêm data -> Lặp lại.
 
 Sau khi ta đã có model hoàn thiện sẽ kéo model qua website để demo.
