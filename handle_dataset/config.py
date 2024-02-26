@@ -14,4 +14,3 @@ NO_SUBTITLE_URL_FILENAME = "no_title_url.txt"
     Tên file url có chứa các subtitle, cần xử lí khác biệt
 '''
 SUBTITLE_URL_FILENAME = "title_url.txt"
-
