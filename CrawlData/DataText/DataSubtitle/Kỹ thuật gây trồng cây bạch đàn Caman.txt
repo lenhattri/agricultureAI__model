@@ -1,0 +1,60 @@
+_title: 
+Kỹ thuật gây trồng cây bạch đàn Caman
+_content: 
+Ở Việt Nam, loài này được nhập vào và trồng một thời gian dài ở các vùng đồi thấp từ Bắc vào Nam. Cây mọc nhanh, có biên độ sinh thái rộng, chịu khô và ngập úng trong thời gian ngắn, phù hợp với sinh trưởng và phát triển trên nhiều loại đất, kể cả đất phèn chua. Hiện nay, loài này được trồng rất rộng rãi ở các tỉnh phía Nam và Trung Bộ để cung cấp nguyên liệu cho công nghiệp giấy.  
+_content: 
+   
+_subtitle: 
+- Điều kiện gây trồng
+_content: 
++ Có thể gây trồng trên đất phèn Tây Nam Bộ và các vùng khác có mưa mùa nhiệt đới, nhiệt độ trung bình hàng năm không dưới 26,5 0  C. Mùa mưa và mùa khô luân phiên kéo dài, lượng mưa trung bình hàng năm không dưới 1.300 mm.  
+_content: 
++ Có thể trồng ở các vùng đồi trọc, đất sau nương rẫy của tỉnh Vĩnh Phúc có địa hình với độ cao tuyệt đối thấp hơn 200 m, độ dốc nhỏ hơn 15 0  , thành phần cơ giới đất thịt nhẹ, sét  nhẹ, pha cát (II), thịt trung bình (III), độ dày tầng đất 70 cm, dạng thực bì cỏ lông lợn, cỏ may, sim, ràng ràng, tế guột. 
+_subtitle: 
+- Nguồn giống
+_content: 
++ Có 5 xuất xứ đã được công nhận tiến bộ kỹ thuật là Katherine, Kennedy river, Morehead river (vùng trồng: Bắc, Đông Nam Bộ và Bắc Trung Bộ), Gibb river (vùng trồng: Đông Nam Bộ) và Petford area (vùng trồng: Bắc). Riêng xuất xứ Petford area hiện nay không còn trồng ở phía Bắc nữa do sinh trưởng kém và hay bị bệnh. 
+_content: 
++ Nguồn giống được cải thiện hiện có 2 dòng kháng bệnh là SM16 và SM23 ( vùng trồng cho các tỉnh Đông Nam Bộ). 
+_subtitle: 
+- Tạo cây con
+_content: 
++ Ở miền Nam, quả chín vào tháng 5 - 6 (ở miền Bắc hầu hết các xuất xứ đều không thấy kết hạt). Thu hái quả khi vỏ quả chuyển từ màu xanh nhạt sang màu xanh thẫm, đầu quả màu nâu thẫm, cuống quả mốc trắng, hạt màu nâu nhạt, mày màu nâu rất nhạt. Đôi khi màu của hạt và mày giống nhau, chỉ phân biệt được giữa hạt và mày về kích thước, mày có kích thước nhỏ hơn hạt nhiều. 
+_content: 
++ Quả sau khi thu hái ủ thành đống 2-3 ngày cho quả chín đều; sau đó rải đều quả trên nong, nia phơi trong nắng nhẹ để tách hạt, thu hạt hàng ngày. Khoảng 7 - 8 kg quả thu được 1 kg hạt. 1 kg hạt mới có khoảng 250.000 - 300.000 hạt. Tỷ lệ nẩy mầm ban đầu > 85%. 
+_content: 
++ Hạt được phơi trong bóng râm để giảm hàm lượng nước 7-8%, sau đó cho hạt vào chum vại hoặc thùng gỗ bảo quản nơi thoáng mát, có thể để trong kho lạnh ở nhiệt độ 5-10 0  C. Thời hạn bảo quản có thể được trên 1 năm. Nếu bảo quản hạt ở điều kiện kho lạnh có thể để trên 5 năm. Khi gieo ngâm hạt trong nước ấm (35 - 40 0  C) để nguội dần từ 6 - 12 giờ. Hạt nảy mầm nhanh, trong 3 - 10 ngày. Thời gian gieo hạt từ tháng 12 đến đầu tháng 2. 
+_subtitle: 
+- Tiêu chuẩn cây con
+_content: 
+Cây con đem trồng có độ tuổi từ 2,5 đến 4 tháng, đường kính cổ rễ 3 mm, chiều cao cây 25-45 cm. Cây khỏe, không bị sâu bệnh, không cụt ngọn, đất trong bầu còn nguyên không vỡ nát. 
+_subtitle: 
+- Gây trồng và chăm sóc
+_content: 
+Có thể trồng phân tán hoặc tập trung. 
+_content: 
++  Chuẩn bị đất trồng  : 
+_content: 
+Dọn thực bì: thực bì dạng 1 và 2 phát trắng dọn thành băng theo đường đồng mức, băng sạch để rộng 1m, băng để cành nhánh rộng 2m, thực bì dạng 3 chỉ phát thực bì và dọn sạch trong những băng trồng. 
+_content: 
+Làm đất: Nơi có độ dốc <15 0   làm đất bằng cơ giới. Nơi có độ dốc >15 0   làm đất bằng cuốc. Đào hố có kích thước 40 x 40 x 40 cm. Lấp hố trước khi trồng 8-10 ngày. 
+_content: 
+Bón lót: Trước khi trồng 1 tuần bón lót bằng phân chuồng hoai hoặc phân lân. Liều lượng phân chuồng là 1 kg/hố và phân lân là 75 g/hố.  
+_content: 
++  Mật độ và cự ly  :  
+_content: 
+Mật độ trồng 1.111 cây/ha, hàng cách hàng 3 m, cây cách cây 3 m. 
+_content: 
++  Thời vụ  :  
+_content: 
+Trồng vào vụ xuân, từ đầu tháng 3 đến cuối tháng 4. Tùy theo thời tiết của từng vùng mà có quy định cụ thể. 
+_content: 
++  Chăm sóc và bón thúc  :  
+_content: 
+Trồng dặm sau khi trồng chính từ 15 - 30 ngày.  
+_content: 
+Thời gian chăm sóc rừng trồng 3 năm, số lần chăm sóc năm thứ nhất 1 lần, năm thứ hai 3 lần, năm thứ ba 2 lần.  
+_content: 
+Kỹ thuật chăm sóc: Phát toàn bộ thực bì cạnh tranh với cây trồng trên băng chừa 2 m, rẫy cỏ, xới xung quanh gốc cây với đường kính 1m, xới sâu 15 - 20 cm cách gốc 20 cm. 
+_content: 
+Bón thúc 2 lần, lần thứ 1 vào đầu vụ xuân năm thứ 2, lần 2 vào đầu vụ xuân năm thứ 3. Bón phân NPK với tỉ lệ (3:5:2). Bón phân  bằng cách đào rãnh phía trên dốc hình cung sâu 10 cm, rộng 10 cm cách gốc 20-30 cm (lần bón 1) và 30 - 50 cm (lần bón 2), sau đó bỏ phân và lấp đất. 

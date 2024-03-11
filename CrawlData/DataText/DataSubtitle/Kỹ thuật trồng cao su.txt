@@ -1,0 +1,60 @@
+_title: 
+Kỹ thuật trồng cao su
+_subtitle: 
+1. Thời vụ trồng
+_content: 
++ Đông Nam Bộ, Bình Thuận, Tây Nguyên: kết thúc thời vụ trồng trước 31/7; 
+_content: 
++ Tây Bắc: kết thúc thời vụ trồng trước 31/7; 
+_content: 
++ Đông Bắc (vùng trồng thử nghiệm): kết thúc trước 31/7; 
+_content: 
++ Duyên hải miền Trung: kết thúc thời vụ trồng trước 31/10 đối với vụ thu và trước 28/2 đối với vụ xuân. 
+_subtitle: 
+2. Đào hố, bón lót
+_content: 
+- Hố trồng: có thể sử dụng cơ giới hoặc thủ công để đào hố. Tùy theo địa hình thực tế, khuyến khích sử dụng phương pháp cày ngầm trước mùa mưa 1-2 tháng trong 
+_content: 
+khâu chuẩn bị đất. 
+_content: 
++ Khoan hố bằng cơ giới: đường kính hố khoan ≥60 cm, độ sâu ≥60 cm; 
+_content: 
++ Múc hố bằng cơ giới: kích thước chiều rộng của gàu múc ≥60 cm và hố phải đảm bảo chiều sâu ≥60 cm. Khi múc hố, lớp đất mặt của lần múc thứ nhất được để riêng sát miệng hố, lớp đất của các lần múc tiếp theo được để lại trong hố; 
+_content: 
++ Đào hố bằng thủ công: hố có kích thước dài 60 cm, rộng 60 cm, sâu 60 cm, đáy hố rộng 50 x 50 cm. Khi đào thủ công phải để riêng lớp đất mặt và lớp đất đáy; 
+_content: 
+- Nơi trồng theo đường đồng mức: tâm hố đào cách taluy âm tối thiểu 1 m; 
+_content: 
+- Bón lót: mỗi hố 300 g phân lân nung chảy, 5 - 10 kg phân hữu cơ hoai mục hoặc các loại phân hữu cơ vi sinh theo hướng dẫn của cơ quan chuyên môn. 
+_content: 
+- Trộn phân lấp hố được thực hiện trước khi trồng ít nhất 15 ngày. Lấy lớp đất mặt lấp khoảng 1/2 hố, sau đó trộn đều phân bón lót với lớp đất mặt xung quanh để lấp đầy hố; sau khi bón lót có thể dùng phương pháp cày ngầm để phá vỡ thành hố. Cắm cọc ở giữa tâm hố để đánh dấu điểm trồng. 
+_subtitle: 
+3. Trồng bầu cắt ngọn (B0) và bầu có tầng lá
+_content: 
+- Trước khi trồng cần dọn sạch cỏ, rễ cây... xung quanh hố, sau đó dùng cuốc móc đất ngay điểm trồng trong hố với kích thước vừa lớn hơn bầu đất và sâu tương ứng với chiều cao bầu; 
+_content: 
+- Dùng dao bén (sắc) cắt sát đáy bầu và phần rễ cọc nhú ra khỏi bầu. Trường hợp rễ cọc bị xoắn ở trong bầu phải cắt hết phần rễ xoắn; 
+_content: 
+- Đặt bầu vào hố trồng cho thẳng đứng, mắt ghép quay về hướng gió chính, mí dưới mắt ghép ngang với mặt đất; 
+_content: 
+- Rạch túi bầu PE theo đường thẳng đứng rồi kéo nhẹ túi bầu lên; kéo túi bầu tới đâu, lấp đất để nén chắt bầu tới đó. Chú ý không làm vỡ bầu; 
+_content: 
+- Thu gom và xử lý túi bầu sau khi trồng theo đúng quy định. 
+_subtitle: 
+4. Trồng dặm
+_content: 
+- Trồng dặm định hình vườn cây ngay trong năm thứ nhất, chậm nhất là năm thứ hai. Trồng dặm bằng cây con đúng giống và có mức phát triển bằng với cây trên vườn; 
+_content: 
+- Trồng dặm trong năm thứ nhất: 
+_content: 
++ Đối với vườn trồng bằng bầu có tầng lá, 20 ngày sau khi trồng, dùng bầu có 2- 3 tầng lá ổn định để trồng dặm lại cây đã bị chết; 
+_content: 
++ Số lượng cây giống cần được chuẩn bị để trồng dặm so với số lượng cây tái canh trong năm thứ nhất là 10%; 
+_content: 
+- Trồng dặm trong năm thứ hai: 
+_content: 
++ Trồng bằng bầu có từ 3 tầng lá trở lên; 
+_content: 
++ Số lượng cây trồng dặm chuẩn bị theo kết quả kiểm kê cuối năm thứ nhất, tối đa là 5%. Khuyến khích trồng dặm bằng core tum từ năm thứ 2 (nếu có điều kiện sản xuất được core tum). 
+_content: 
+- Trồng dặm được thực hiện từ đầu thời vụ tái canh và kéo dài tối đa 1 tháng. 

@@ -1,0 +1,92 @@
+_title: 
+Biện pháp quản lý tổng hợp sâu bệnh gây hại chính trên cây chanh leo
+_subtitle: 
+1. 
+_content: 
+Sử dụng cây giống của những cơ sở sản xuất giống trong và ngoài nước có uy tín, chất lượng tốt. Các cây giống phải đảm bảo chứng nhận sạch virus và không nhiễm các nấm bệnh truyền qua đất như  Fusarium, Phytophthora  ,…  
+_subtitle: 
+2. 
+_subtitle: 
+a. 
+_content: 
+Thu dọn sạch sẽ cỏ dại, tàn dư thực vật, nhổ bỏ các cây là ký chủ của virus và môi giới truyền bệnh như dây nhãn lồng, rau muối, bầu bí, dưa chuột, mướp đắng, su su, cà tím, ớt… trên khu vực dự định trồng chanh leo.  
+_content: 
+Xử lý mối, tuyến trùng và các sâu hại dưới đất bằng thuốc bảo vệ thực vật trước khi trồng.  
+_content: 
+Khử trùng đất bằng vôi bột với lượng 0,5 kg/hố trước khi trồng ít nhất 15 - 20 ngày.  
+_subtitle: 
+b. 
+_content: 
+Tùy điều kiện đất đai, tập quán canh tác và điều kiện khí hậu từng vùng lựa chọn mật độ thích hợp, mật độ trồng từ 800 - 1000 cây/ ha (4m x 3m, 3m x 3m). 
+_subtitle: 
+c. V
+_content: 
+Thường xuyên kiểm tra để phát hiện sớm, thu gom và tiêu hủy triệt để các bộ phận của cây bị nhiễm sâu, bệnh hại, loại bỏ và thay thế các cây có biểu hiện của bệnh virus như xoăn, vàng lá và ngọn.  
+_content: 
+Hàng năm, khử trùng vườn bằng vôi bột với lượng 500 kg/ha (chia làm 2 lần), rắc toàn bộ vườn hoặc rắc vào các rãnh thoát nước để khử trùng nguồn bệnh và nâng cao độ pH của đất.  
+_subtitle: 
+d. 
+_content: 
+Sau thu hoạch cắt toàn bộ các cành trên mặt giàn đã cho quả. Để lại thân và các cành từ mặt đất tới giàn. Khi chồi mới nhú ra từ 2 – 3 cm cần phun thuốc phòng, trừ sâu bệnh để bảo vệ các chồi non.  
+_content: 
+Phải khử trùng dụng cụ cắt tỉa bằng nước javen 1% hoặc cồn trước khi chuyển sang cắt tỉa cây khác. Phải thu dọn sạch sẽ cành, lá, quả sau khi cắt tỉa ra khỏi vườn, không để hoặc ủ cành vào gốc cây.  
+_subtitle: 
+e. 
+_content: 
+- Chụp lồng lưới tại mỗi vị trí trồng cây.   
+_content: 
+Sử dụng lưới nhựa kích thước mắt lưới từ 90 - 120 ô/cm2 , may thành hình trụ dài 2,5 m x rộng 0,7 m, kín một đầu, có cửa bên sườn để đóng, mở khi cần.  
+_content: 
+Sử dụng cọc tre dài 3 m cắm giữa hố trồng tạo điểm bám cho cây leo lên giàn. Dùng 4 cọc tre dài 2,5 m cắm ở 4 góc, cách nhau 50 cm. Chụp lồng lưới bên ngoài cọc tre, kéo mép lưới xuống sát mặt đất để lồng lưới căng đều, lấp đất phủ kín chân lưới. Buộc cố định đỉnh của lồng lưới lên sát với mặt giàn. Khi ngọn cây chạm mặt giàn tiến hành tháo bỏ lồng lưới.  
+_content: 
+- Bảo vệ cây trong nhà lưới trước khi trồng   
+_content: 
+Cây con giống phải được chuyển ra trồng ở bầu to, kích thước bầu tối thiểu 20 cm x 30 cm. Khu vực trùm lưới phải thoáng, mát, không bị che bóng, loại bỏ sạch cỏ dại, và các cây là ký chủ của rầy, rệp, bọ phấn. Sử dụng lưới nhựa, kích thước mắt lưới từ 90 - 120 ô/cm2, tùy theo số lượng cây để thiết kế lưới trùm cho phù hợp, chiều cao của nhà lưới tối thiểu 2 m. Trước khi đưa cây vào cần phun thuốc phòng trừ rầy, rệp, bọ phấn ở trong và xung quanh khu vực trùm lưới.  
+_content: 
+Chỉ bảo vệ cây con tập trung từ 30 - 45 ngày trước trồng hoặc khi cây đạt chiều cao từ 1,2 - 1,4 m phải đem ra trồng ngoài đồng ruộng.  
+_subtitle: 
+g. C
+_content: 
+Áp dụng theo quy trình kỹ thuật trồng và chăm sóc cây chanh leo của từng địa phương.  
+_subtitle: 
+3. 
+_content: 
+Sử dụng chế phẩm sinh học chứa các vi sinh vật đối kháng như nấm  Trichoderma  , xạ khuẩn  Steptomyces  , vi khuẩn  Bacillus  , thảo mộc trừ tuyến trùng chứa các hoạt chất  saponin, ankaloid  , nấm ký sinh côn trùng  Metarhizium  … và các vi sinh vật có ích khác để phòng trừ nấm và tuyến trùng gây hại trong đất.  
+_content: 
+Các chế phẩm sinh học có thể bón kết hợp với các đợt bón phân, hoặc rắc chế phẩm (trong vùng rễ) rồi phủ lớp đất lên. Trong mùa khô có thể hòa chế phẩm sinh học trong nước để tưới.  
+_content: 
+Thời kỳ trước và sau mùa mưa nên sử dụng nấm đối kháng  Trichoderma   nồng độ 0,5% tưới vào gốc từ 3 - 4 lần/vụ, mỗi lần cách nhau 10 - 15 ngày.  
+_subtitle: 
+4. 
+_content: 
+Sử dụng thuốc theo nguyên tắc 4 đúng, chỉ dùng các thuốc đã được đăng ký trong Danh mục thuốc bảo vệ thực vật được phép sử dụng ở Việt Nam. Nồng độ và liều lượng theo khuyến cáo của nhà sản xuất.  
+_subtitle: 
+-
+_content: 
+Khi bệnh mới chớm xuất hiện, sử dụng luân phiên thuốc có các hoạt chất như  Tebuconazole, Mancozeb, Propineb, Metalaxyl, Dimethomorph, Difenoconazole, Azoxystrobin, Chlorothalonil, Fosetyl Aluminium, Copper oxychloride, Hexaconazole,…  để phòng trừ.  
+_content: 
+Phun khi cây ra chồi mới hoặc vào đầu mùa mưa, bệnh nặng, cần phun lại lần 2 cách lần 1 khoảng 7 - 10 ngày.  
+_content: 
+Tưới, sục gốc, hoặc quét các loại thuốc có hoạt chất như  Phosphonate, Fosetyl Aluminium, Mancozeb, Metalaxyl..  . lên các gốc chanh leo chớm bị bệnh thối gốc - phình thân và các cây xung quanh 1 - 2 lần vào đầu và cuối mùa mưa. 
+_subtitle: 
+- 
+_content: 
+Treo bẫy dính màu vàng để dự tính dự báo sớm sự xuất hiện của các môi giới truyền virus, thường xuyên kiểm tra vườn để phòng trừ kịp thời. 
+_content: 
+Trùm lưới là biện pháp hiệu quả nhất để bảo vệ cây con khỏi các côn trùng gây hại, đặc biệt là các môi giới truyền virus từ khi mới trồng tới khi cây chuẩn bị lên giàn.  
+_content: 
+Chỉ tiến hành phun thuốc bảo vệ thực vật có chứa các hoạt chất:  Spirotetramat, Abamectin, Emamectin benzoate, Matrine   để phòng trừ môi giới truyền virus ngay sau khi tháo bỏ lưới. 
+_content: 
+Nếu không trùm lưới bảo vệ cây trước khi trồng, phải phun phòng trừ các môi giới truyền virus như rầy, rệp, bọ phấn và côn trùng khác ngay sau khi trồng cây bằng thuốc có chứa các hoạt chất:  Spirotetramat, Abamectin, Emamectin benzoate, Matrine...   Sau đó có thể sử dụng các thuốc trên để phòng trừ khi điều tra thấy các côn trùng môi giới gây hại trong vườn. 
+_content: 
+Sau các đợt cắt tỉa khi cây bắt đầu ra lộc, phải sử dụng các thuốc bảo vệ thực vật hóa học để phun phòng trừ côn trùng gây hại.  
+_subtitle: 
+- 
+_content: 
+Sử dụng luân phiên các thuốc có chứa hoạt chất như  Abamectin Abamectin+Petroleum oil 39,7%, propargite, dầu khoáng  ,… phun ướt đều bề mặt lá và các bộ phận khác trên cây. Sau 3 - 5 ngày nếu thấy vẫn còn nhện cần phun nhắc lại lần 2.  
+_subtitle: 
+- 
+_content: 
+Dùng bẫy dính màu vàng hoặc bẫy dẫn dụ có hoạt chất  Methyl Eugenol   treo bên ngoài vườn, để dự báo sự xuất hiện của ruồi. Khi có ruồi vào bẫy, phun bả  protein (ENTO - PROTEIN 150DD).   Liều lượng và cách sử dụng theo hướng dẫn của nhà sản xuất. Nên phun bả protein đồng loạt trên diện rộng để tăng hiệu quả diệt ruồi. 
+_content: 
+* Lưu ý: Các thuốc BVTV có chứa các hoạt chất  Tebuconazole, Mancozeb, Propineb, Dimethomorph, Phosphonate, Metalaxyl, Fosetyl Aluminium, Difenoconazole, Copper oxychloride, Azoxystrobin, Chlorothalonil, Hexaconazole, Spirotetramat, Abamectin, Emamectin benzoate, Matrine   chỉ được khuyến cáo sử dụng sau khi được đăng ký vào Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam để phòng trừ sâu bệnh gây hại chính trên cây chanh leo. 

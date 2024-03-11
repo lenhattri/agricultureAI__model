@@ -1,0 +1,78 @@
+_title: 
+Phòng trừ bệnh lùn sọc đen hại lúa vụ Hè Thu, vụ Mùa
+_subtitle: 
+1.Triệu chứng
+_subtitle: 
+a) Giai đoạn mạ
+_content: 
+Triệu chứng rất khó phát hiện, thường chỉ xuất hiện triệu chứng thấp lùn, còi cọc và xanh đậm. 
+_subtitle: 
+b) Giai đoạn lúa đẻ nhánh
+_content: 
+Cây lúa xanh đậm và thấp lùn; một số lá xoắn đầu lá hoặc xoắn lá, rách mép lá. Mặt dưới lá có thế xuất hiện các u sáp nổi gồ chạy dọc đứt đoạn theo gân lá. Các u sáp trắng thường được quan sát thấy rõ hơn ở dọc gân lá chính và bẹ lá. Một số dảnh lúa xuất hiện các nhánh phụ mọc lên từ đốt thân và có nhiều rễ bất định tại gốc nhánh phụ. 
+_subtitle: 
+c) Giai đoạn phân hóa đòng
+_content: 
+Các triệu chứng như mô tả ở giai đoạn đẻ nhánh nhưng biểu hiện điển hình hơn, cây thấp lùn khác biệt rõ ràng với cây lúa khỏe. Gân bẹ lá nổi rõ, phiến lá bắt đầu chuyến vàng, khô đầu lá sau đó các vết gỉ sắt, đốm nâu xuất hiện trên lá. Khi cây lúa vươn lóng, một số lóng sát gốc có thể xuất hiện triệu chứng u sáp trắng nối gồ và chạy dọc lóng thân phía sát gốc, ra nhiều rễ mọc ngược ở đốt thân. Rễ bắt đầu bị hủy hoại, thối đen, có thể nhổ cả khóm lúa lên rất dễ dàng; nhìn mặt ruộng thấy nhấp nhô, lồi lõm. 
+_subtitle: 
+d) Giai đoạn lúa trỗ bông: 
+_content: 
+Những khóm lúa bị nhiễm bệnh sớm sẽ thối rễ từ giai đoạn phân hóa đòng và bị lùn, lụi; những khóm lúa bị nhiễm bệnh muộn hơn có hiện tượng trỗ nghẹn đòng (lá đòng bị gập, xoắn, ngắn) hoặc không trỗ thoát; những bông trỗ thoát nhiều hạt bị lép đen. Các u sáp trên lóng thân chuyển từ màu trắng sang màu nâu, đen; mặt dưới lá, bẹ lá nổi rõ các nốt sần. Những dảnh nhiễm bệnh muộn sẽ biểu hiện các triệu chứng giống như giai đoạn đẻ nhánh ở trên các lá phía trên, nhất là lá đòng. 
+_content: 
+  
+_subtitle: 
+2. Biện pháp quản lý bệnh lùn sọc đen trong vụ Hè thu, vụ Mùa
+_subtitle: 
+a)Vệ sinh đồng ruộng 
+_content: 
+Vệ sinh đồng ruộng bằng cách cày vùi gốc rạ lúa Đông Xuân ngay sau khi thu hoạch để ngăn ngừa lúa chét, lúa tái sinh phát triển; tiêu hủy ký chủ phụ của rầy và bệnh lùn sọc đen, đặc biệt là tại các vùng đã từng bị bệnh lùn sọc đen hại nặng. 
+_subtitle: 
+b) Bố trí thời vụ 
+_content: 
+Căn cứ vào khung thời vụ chung của địa phương chỉ đạo gieo cấy tập trung, đồng loạt nhưng đảm bảo thời gian cách ly với vụ Đông Xuân ít nhất 20 ngày. 
+_subtitle: 
+c) Giám sát rầy lưng trắng di trú bằng bẫy đèn
+_content: 
+- Mỗi huyện đặt ít nhất một bẫy đèn ở những nơi bệnh phát sinh sớm và bị hại nặng ở các vụ trước, năm trước. 
+_content: 
+- Dùng các loại bẫy đèn phù hợp với điều kiện thực tế ở địa phương để phát hiện và thu được rầy lưng trắng di trú. 
+_content: 
+- Theo dõi rầy vào đèn từ trước khi gieo mạ, sạ; thu mẫu rầy lưng trắng vào đèn hoặc ở những nơi có nguồn sáng khác để giám định vi-rút gây bệnh lùn sọc đen bằng Test KIT, phương pháp Elisa hoặc PCR ít nhất ở 3 thời điểm sau: 
+_content: 
++ Trước khi gieo mạ 5-10 ngày 
+_content: 
++ Sau cấy hoặc sạ 5-7 ngày 
+_content: 
++ Sau cấy hoặc sạ 15-20 ngày 
+_content: 
+Sau các thời điểm trên, căn cứ vào tình hình thực tế ở địa phương để hướng dẫn thu mẫu bổ sung. 
+_content: 
+Trong trường hợp phát hiện nguồn rầy lưng trắng di trú cao bất thường phải tiến hành thu mẫu rầy lưng trắng giám định vi-rút ngay. 
+_subtitle: 
+d) Bảo vệ mạ
+_content: 
+- Không gieo mạ ven đường giao thông, nơi có nguồn sáng mạnh sẽ thu hút rầy lưng trắng đến truyền bệnh. 
+_content: 
+- Che phủ lưới (mắt lưới dày) để chống rày lưng trắng xâm nhập lây truyền bệnh hoặc xử lý hạt giống (nếu không che phủ lưới) bằng thuốc BVTV; phun tiễn chân mạ trước khi cấy 2-3 ngày ở những vùng đã từng bị bệnh và vùng có nguy cơ bị bệnh cao. 
+_content: 
+- Khi phát hiện bệnh lùn sọc đen trên ruộng mạ thì tiến hành tiêu hủy toàn bộ, gieo mạ khác thay thế. 
+_subtitle: 
+đ) Biện pháp canh tác
+_content: 
+- Hạn chế gieo cấy các giống nhiễm nặng rầy lưng trắng, đặc biệt ở những vùng bị nhiễm bệnh nặng vụ trước hoặc vùng có nguy cơ cao. 
+_content: 
+- Áp dụng biện pháp kỹ thuật “Hệ thống thâm canh lúa cải tiến (SRI)”, “3 giảm 3 tăng”, “1 phải 5 giảm”; không phun kích thích sinh trưởng khi lúa đã bị bệnh. 
+_content: 
+- Không bón quá thừa phân đạm. 
+_subtitle: 
+e) Trừ rầy lưng trắng và tiêu hủy nguồn bệnh
+_content: 
+- Ngay từ khi gieo mạ, sạ hoặc cấy lúa:   nếu phát hiện rầy lưng trắng di trú mang vi-rút gây bệnh lùn sọc đen cần phải phun thuốc trừ rầy ngay (nếu có rầy lưng trắng trên ruộng) để diệt nguồn rầy mang vi-rút, hạn chế lan truyền bệnh. 
+_content: 
+- Giai đoạn lúa đẻ nhánh:   tiếp tục kiểm tra, nếu phát hiện rầy lưng trắng non (rầy cám) thì phun thuốc khi rầy lưng trắng đa số ở tuổi 1-3 để hạn chế số lượng môi giới lan truyền bệnh. 
+_content: 
+* Tiêu hủy cây lúa bị bệnh:    Thăm ruộng thường xuyên để phát hiện và nhổ tỉa tiêu hủy (vùi xuống bùn) ngay các khóm, dảnh lúa bị bệnh; ruộng lúa giai đoạn trước đứng cái có trên 30% số dảnh lúa bị bệnh thì tiến hành tiêu hủy ngay cả ruộng bằng cách cày vùi diệt mầm bệnh; trước khi cày vùi phải phun thuốc trừ rầy lưng trắng (nếu có) để ngăn chặn nguồn bệnh phát tán sang ruộng khác. Chỉ cấy, sạ lại nếu còn kịp lịch thời vụ do cơ quan chuyên môn và chính quyền địa phương quy định. 
+_content: 
+- Giai đoạn lúa đứng cái trở đi:   Những ruộng, khu vực đã phát hiện rầy lưng trắng mang vi-rút cần phun trừ thì phải phun thuốc khi rầy cám lứa kế tiếp nở rộ; những ruộng, khu vực còn lại thường xuyên tổ chức điều tra, khoanh vùng, chỉ đạo phun thuốc trừ rầy lưng trắng những nơi có mật độ từ 1.000 con/m2 trở lên (đối với lúa trước trỗ) hoặc có mật độ từ 2.000 con/m2 trở lên (đối với lúa sau trỗ) khi rầy đa số tuổi 1 -3. Thường xuyên kiểm tra, nhổ vùi dảnh, khóm lúa bị bệnh. 
+_content: 
+* Tiêu hủy cây lúa bị bệnh:    Trường hợp ruộng lúa bị bệnh ở mức độ nhẹ và rải rác thì tiến hành nhổ và tiêu hủy cây lúa, khóm lúa bị bệnh; phun thuốc trừ rầy lưng trắng (nếu có) để hạn chế lây lan nguồn bệnh sang ruộng khác; trường hợp ruộng lúa bị nhiễm bệnh nặng, ảnh hưởng nghiêm trọng đến năng suất thì phải tiêu hủy bằng cách cày vùi cả ruộng, trước khi cày phải phun thuốc trừ rầy lưng trắng (nếu có) để hạn chế lây lan nguồn bệnh sang ruộng khác. 

@@ -1,0 +1,74 @@
+_title: 
+Quy trình kỹ thuật phòng, chống sâu keo mùa thu (Spodoptera frugiperda)
+_subtitle: 
+I. TRÊN NGÔ (BẮP)
+_subtitle: 
+1. Trước khi gieo hạt
+_subtitle: 
+1.1. Sử dụng giống kháng, chống chịu 
+_content: 
+Ở những vùng đã từng bị sâu keo mùa thu gây hại nặng chọn giống ngô có khả năng kháng, chống chịu sâu keo mùa thu cao (NK 7328 Bt/GT, NK 4300 Bt/GT, NK 66 Bt/GT, NK 6101 Bt/GT, 8639S, 6919S, 99558S, …) để gieo trồng nhằm giảm mức độ thiệt hại, giảm chi phí sản xuất do phải áp dụng các biện pháp khác phòng chống sâu keo mùa thu, đặc biệt với khu vực miền núi có địa hình khó khăn, nơi khan hiếm nước để phun thuốc bảo vệ thực vật (BVTV). 
+_subtitle: 
+1.2. Xử lý hạt giống
+_content: 
+Xử lý hạt giống bằng thuốc bảo vệ thực vật là biện pháp có hiệu quả cao trong phòng chống sâu keo ở giai đoạn đầu vụ, từ khi cây ngô nảy mầm đến giai đoạn cây ngô 5-6 lá. 
+_content: 
+Chỉ xử lý hạt giống đối với các giống ngô không có khả năng kháng, chống chịu sâu keo mùa thu bằng các thuốc xử lý hạt giống trong danh mục thuốc BVTV được phép sử dụng, liều lượng sử dụng và phương pháp xử lý hạt giống theo hướng dẫn của nhà sản xuất. 
+_subtitle: 
+* Lưu ý:
+_subtitle: 
+1.3. Chuẩn bị bẫy bả chua ngọt 
+_content: 
+Chuẩn bị làm bả chua ngọt ( cách làm xem phần phụ lục  ) để diệt trừ trưởng thành sâu keo mùa thu ở tất cả các vùng trồng ngô. 
+_subtitle: 
+2. Giai đoạn ngô mới gieo đến 7 lá
+_content: 
+Đây là giai đoạn sung yếu nhất của cây ngô với sâu keo mùa thu, nếu không phòng trừ tốt sâu keo mùa thu gây hại nặng làm giảm mật độ cây ngô trên đồng ruộng làm ảnh hưởng lớn đến năng suất ngô sau này. 
+_subtitle: 
+2.1. Biện pháp sinh học
+_content: 
+Ưu tiên nhân thả các loài thiên địch như các loài ong ký sinh trứng, ký sinh sâu non; loài côn trùng ăn thịt sâu non sâu keo mùa thu như bọ rùa, bọ xít ăn thịt, bọ đuôi kìm, … ra đồng ruộng để kiểm phòng chống sâu keo mùa thu và một số sâu hại khác. 
+_content: 
+- Sử dụng chế phẩm nấm xanh, nấm trắng, vi khuẩn Bt, virus NPV để phun trừ khi sâu tuổi nhỏ và điều kiện thời tiết có ẩm độ cao để phát huy tốt nhất hiệu lực của chế phẩm. 
+_subtitle: 
+2.3. Đặt bẫy bả chua ngọt hoặc bẫy dẫn dụ giới tính (pheromone)
+_content: 
+- Đặt bẫy bả chua ngọt hoặc bẫy pheromone (10-20 bẫy/ha) trên ruộng để diệt trừ trưởng thành sâu keo mùa thu ở tất cả các vùng trồng ngô. 
+_content: 
+- Thời điểm đặt bẫy: Nên đặt bẫy suốt vụ ngô nhưng quan trọng nhất là khi ngô vừa mới gieo đến khi trỗ cờ, phun râu. 
+_subtitle: 
+2.4. Biện pháp hóa học
+_content: 
+- Những ruộng trồng giống ngô kháng, chống chịu sâu keo mùa thu không phải phun thuốc BVTV. 
+_content: 
+- Những vùng, ruộng ngô giống đã được xử lý hạt giống đúng hướng dẫn không phải phun thuốc BVTV khi sâu non mới nở (sâu thường chết ngay ở tuổi 1-2). Tuy nhiên, trong giai đoạn này cần điều tra mật độ sâu để phun trừ nếu mật độ sâu non tuổi 2 - 3 còn cao  (mật độ sâu non 3-4 con/m 2   hoặc tỷ lệ hại > 20% số cây, triệu trứng hại là các vết nhỏ li ti màu trắng trên lá  ). 
+_content: 
+- Những vùng, ruộng ngô không được xử lý hạt giống bằng thuốc bảo vệ thực vật cần áp dụng bẫy bả chua ngọt hoặc bẫy pheromone để diệt trưởng thành, ngắt ổ trứng sâu keo mùa thu nhằm làm giảm mật độ sâu non trên đồng ruộng. Trong giai đoạn này cần điều tra mật độ sâu để phun trừ khi sâu non tuổi 1 - 2 có mật độ cao. 
+_content: 
+- Những vùng, ruộng ngô không áp dụng các biện pháp nêu trên phải thường xuyên điều tra để phun trừ kịp thời khi mật độ sâu non tuổi 1 - 2 cao. 
+_subtitle: 
+* Lưu ý:
+_subtitle: 
+ phun vào nõn cây ngô
+_content: 
+Những nơi đã bị sâu keo mùa thu hại nặng mà điều kiện khó khăn (không có nước, độ dốc cao, …) không thể áp dụng đầy đủ các biện pháp nêu trên thì tùy theo giống ngô cần áp dụng các biện pháp tối thiểu là (1) sử dụng giống kháng hoặc giống chống chịu, (2) xử lý hạt giống và (3) sử dụng bẫy bả chua ngọt, bẫy pheromone. 
+_subtitle: 
+5. Giai đoạn ngô 7 lá đến xoáy nõn, sắp trỗ cờ phun râu
+_content: 
+- Những ruộng trồng giống ngô kháng, chống chịu sâu keo mùa thu không phải phun thuốc BVTV. 
+_content: 
+- Những vùng, ruộng ngô không sử dụng giống kháng, giống chống chịu sâu keo mùa thu tiếp tục sử dụng thiên địch để kiểm soát sâu non. Thường xuyên điều tra để phun trừ kịp thời khi mật độ sâu non tuổi 1 - 2 cao (> 4 con/m 2  ), tỷ lệ cây bị hại >20% số cây (tính theo vết hại mới). 
+_content: 
+* Lưu ý: Giai đoạn này mật độ sâu thường thấp hơn giai đoạn ngô 3-6 lá và cây ngô đã lớn, có khả năng đền bù thiệt hại do vậy trong trường hợp ruộng ngô bị sâu hại nặng vẫn tiếp tục chăm sóc để cây ngô phục hồi nhanh, cho thu hoạch bình thường. 
+_subtitle: 
+6. Giai đoạn ngô trỗ cờ phun râu – chín, thu hoạch
+_content: 
+Giai đoạn này mức độ gây hại và thiệt hại do sâu keo mùa thu gây ra trên cây ngô giảm hơn so với 2 giai đoạn trước, do đó nên hạn chế sử dụng thuốc BVTV. 
+_subtitle: 
+II. 
+_content: 
+1. Lần đầu phát hiện sâu keo mùa thu gây hại trên cây trồng bất kỳ (trừ cây ngô) cần báo cho cán bộ Trồng trọt, BVTV hoặc khuyến nông xã, huyện để được hướng dẫn biện pháp xử lý. 
+_content: 
+2. Áp dụng các biện pháp phòng chống an toàn gồm bẫy bả chua ngọt, bẫy pheromone và sử dụng thiên địch. 
+_content: 
+3. Nếu sâu xuất hiện với mật độ cao, khả năng gây thiệt hại lớn tới năng suất cây trồng thì tạm thời sử dụng các thuốc BVTV theo hướng dẫn của Cục Bảo vệ thực vật để phun trừ. 
