@@ -1,0 +1,50 @@
+_title: 
+Quy trình quản lý tổng hợp sinh vật gây hại chính trên nấm mỡ (Agaricus bisporus)
+_subtitle: 
+1. Biện pháp giống
+_content: 
+Sử dụng giống nấm mỡ chất lượng tốt, tuổi giống đồng đều và không nhiễm sinh vật hại (nấm mốc, ấu trùng ruồi, nhện). 
+_subtitle: 
+2. Biện pháp canh tác
+_content: 
+* Xử lý cơ chất trồng nấm 
+_content: 
+- Sử dụng 100% rơm rạ khô đã bổ sung dinh dưỡng, chất đống ủ 15 ngày và cứ 3 - 4 ngày đảo 1 lần, quá trình ủ cơ chất bổ sung vi sinh vật chức năng ( Actinomyces  ) giúp gia tăng nhiệt đống ủ và rút ngắn thời gian ủ, đồng thời tiêu diệt nguồn sinh vật hại tồn tại trong cơ chất. 
+_content: 
+- Vật liệu phủ là đất thịt nhẹ (kích thước 2,0 - 2,5 cm) và được phơi khô ở nơi cách xa nguồn sinh vật hại. 
+_content: 
+* Xử lý nhà/trại trồng nấm 
+_content: 
+- Thu gom, vệ sinh, tiêu hủy sạch sẽ tàn dư lưu vụ và sau mỗi đợt hái nấm. 
+_content: 
+- Khử trùng bạt che xung quanh, rắc vôi bột nền trại, hoặc dùng nước lau sàn và dung dịch ion điện giải vệ sinh tường, nền, kệ, giá sau vụ nấm, trước lên giàn và cấy giống nấm. 
+_content: 
+- Thường xuyên kiểm tra phát hiện sớm sự xuất hiện của sinh vật gây hại tại khu vực trồng nấm để có biện pháp xử lý ngăn chặn kịp thời, tránh lây lan. 
+_content: 
+- Khử trùng vật tư, bảo hộ lao động trước và sau khi vào khu vực sản xuất nấm. 
+_subtitle: 
+3. Biện pháp sử dụng bẫy dính
+_content: 
+Treo 20 bẫy dính màu vàng (kích thước 21,5 cm x 15 cm)/100m2 sàn sản xuất trong suốt vụ nấm, thay bẫy định kỳ 7 ngày/lần hoặc khi bẫy hết dính. 
+_subtitle: 
+4. Biện pháp sinh học
+_content: 
+* Giai đoạn trước khi trồng 
+_content: 
+Dùng dịch chiết thủ công từ cây khổ sâm và hạt xoan 1%, từ tỏi và quế 1,5% phun xung quanh nhà/trại trồng nấm, mái che, tường, giá, kệ, giàn... trước khi trồng 5 - 7 ngày và sau mỗi đợt thu hoạch nấm. 
+_content: 
+* Giai đoạn ươm sợi nấm, nuôi và thu hái quả thể 
+_content: 
+- Đối với nhóm ruồi gây hại nấm: Phun tuyến trùng ký sinh côn trùng (Steinernema sp., Heterorhabditis sp.) với liều lượng 40 tuyến trùng tương ứng với 1 ấu trùng ruồi hoặc 400 tuyến trùng ứng với 1 trưởng thành trên 1 bẫy dính với kích thước là 21,5 cm x 15 cm (106 tuyến trùng/m2 sàn trồng nấm). Sau khi nấm mọc có thể chuyển sang dùng định kỳ 4 - 7 ngày/lần dịch chiết thủ công từ cây khổ sâm và hạt xoan 1%; thuốc bảo vệ thực vật sinh học có chứa vi sinh vật Bacillus thuringiensis var. kurstaki 16.000IU + Granulosis virus 108 PIB (Bitadin WP,…) và hoạt chất Azadirachtin (Neem Nim Xoan Xanh 0.3EC,...) 
+_content: 
+- Đối với nhện nhỏ hại nấm: Phun thuốc bảo vệ thực vật sinh học chứa các hoạt chất Azadirachtin (Neem Nim Xoan Xanh green 0.3EC,…), Dầu hạt bông 40% + dầu đinh hương 20% + dầu tỏi 10% (GC-Mite 70SL,…), Citrus oil (MAP Green 6SL,…). Lưu ý sử dụng pét phun nhỏ và đảm bảo thời gian cách ly sau khi phun. 
+_content: 
+- Đối với bệnh mốc xanh và đốm nâu: Phun 1 lần dịch chiết thủ công từ tỏi và quế 1,5% lên bề mặt giàn trồng nấm sau phủ đất 3 ngày. Khi nấm mỡ bắt đầu xuất hiện quả thể nấm non tại các điểm mới chớm xuất hiện bệnh đốm nâu hay mốc xanh sử dụng màng nilon quây, phủ lên vị trí xuất hiện nấm bệnh nhằm hạn chế phát tán bào tử nấm bệnh ra xung quanh. 
+_subtitle: 
+5. Biện pháp hoá học
+_content: 
+- Trước khi trồng nấm: Sử dụng thuốc bảo vệ thực vật hóa học có chứa các hoạt chất như Lambda-cyhalothrin (ICON 2.5CS,…), Bạc nano-chitosan (Nano Kito 2,6SL,…) diệt ruồi và bào tử nấm mốc. Phun lên tường, mặt dưới giá trồng nấm, các ô thông gió, điều hòa, nền nhà và phun xung quanh khu sản xuất. 
+_content: 
+- Sử dụng thuốc bảo vệ thực vật theo nguyên tắc 4 đúng. Nồng độ và liều lượng theo khuyến cáo của nhà sản xuất. 
+_content: 
+Lưu ý: Các thuốc bảo vệ thực vật sinh học có chứa các hoạt chất Azadirachtin, Dầu hạt bông 40% + dầu đinh hương 20% + dầu tỏi 10%, Citrus oil và vi sinh vật Bacillus thuringiensis var. kurstaki 16.000IU + Granulosis virus 108PIB; thuốc bảo vệ thực vật hoá học có chứa hoạt chất Lambda-cyhalothrin, Bạc nanochitosan chỉ được khuyến cáo sử dụng sau khi được đăng ký vào Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam phòng trừ sinh vật gây hại trên nấm mỡ. 

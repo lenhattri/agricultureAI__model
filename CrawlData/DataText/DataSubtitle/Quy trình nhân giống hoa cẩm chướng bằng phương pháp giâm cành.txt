@@ -1,0 +1,86 @@
+_title: 
+Quy trình nhân giống hoa cẩm chướng bằng phương pháp giâm cành
+_subtitle: 
+1. Trồng và chăm sóc cây mẹ
+_subtitle: 
+a. Nhà lưới trồng cây mẹ
+_content: 
+- Khung nhà bằng sắt hoặc ống thép mạ kẽm, cột bê tông, tre, cột gỗ. 
+_content: 
+- Mái nhà lợp bằng nylon chuyên dụng màu trắng, đảm bảo đủ ánh sáng, hạn chế tia tử ngoại, có lớp che nắng bằng lưới cản quang 50%. 
+_content: 
+- Xung quanh sử dụng lưới chống côn trùng màu trắng, 50- 70 lỗ/cm 2  . 
+_content: 
+- Có hệ thống tưới nước bằng vòi phun tay hoặc tự động. 
+_subtitle: 
+b. Trồng cây mẹ
+_content: 
+- Đất trồng: Đất phù sa giàu mùn có độ tơi xốp thoáng khí, pH 5,5 - 6,5. Lên luống cao 20 - 25 cm, đáy rộng 80 cm, mặt 70 cm, rãnh luống 40 cm.  
+_content: 
+- Tiêu chuẩn: cây invitro sạch bệnh, không dị dạng, không dập nát, có chiều cao: 4 - 5cm; số lá: 6 - 8 lá; chiều dài rễ: 1 - 3 cm; số rễ: 4 - 5 rễ. 
+_content: 
+- Thời vụ trồng: Để có cành giâm vào vụ thu (tháng 8 - 9), cây mẹ trồng vào cuối tháng 6 đầu tháng 7, khoảng cách trồng 15 x 20 cm.  
+_subtitle: 
+c. Chăm sóc vườn cây mẹ
+_content: 
+- Bón phân: Lượng phân thích hợp cho vườn cây mẹ tính theo 1 sào Bắc Bộ: 1 tấn phân chuồng  + 50 kg Supe lân + Urê 10 kg + Kali clorua 5 kg. 
+_content: 
+Cách bón: Bón lót toàn bộ phân chuồng và Supe lân. Số phân còn lại bón thúc làm 2 lần: lần 1, bón 1/3 số phân sau khi cây bấm ngọn lần đầu; lần 2, bón hết số còn lại vào sau trồng 2 tháng (cây đã cắt được 3 lứa mầm). 
+_content: 
+Ngoài ra có thể sử dụng Atonik 1.8% DD, liều lượng 10 ml/bình 10 lít, phun bổ sung sau mỗi lứa cắt để kích thích bật mầm. 
+_content: 
+Sau khi trồng 15 - 20 ngày, tiến hành bấm ngọn, giữ lại 4 - 5 lá. Khi mầm nách bật lên chỉ giữ lại 4 - 5 mầm trên cây còn lại cắt bỏ, cứ sau 10 - 15 ngày cho thu một lứa mầm.  
+_content: 
+Chú ý: sau mỗi lứa cắt mầm chỉ nên duy trì 4 - 5 mầm trên cây.  
+_content: 
+- Theo dõi phát hiện và phun thuốc phòng trừ sâu bệnh: 
+_content: 
++ Bệnh đốm đen, phấn trắng: sử dụng Score 250EC liều lượng 5 - 10ml/bình 10 lít. Hoặc Anvil 5SC liều lượng 10 - 15ml/ bình 10 lít.  
+_content: 
++ Rệp, nhện và một số loài chích hút: sử dụng Supracide 40 ND liều lượng 15 - 20ml/ bình 8 lít. Hoặc Pegasus 50SC liều lượng 10 ml/bình 10 lít.  
+_content: 
++ Sâu ăn lá: sử dụng Padan 50 SP hoặc Supracide 40 ND, phun liều lượng 10- 15 ml/ bình 10 lít. Ngoài ra có thể sử dụng một số loại thuốc trừ sâu khác theo hướng dẫn của ngành Bảo vệ thực vật. 
+_subtitle: 
+2. Kỹ thuật giâm cành
+_subtitle: 
+a. Thời vụ giâm cành
+_content: 
+Cẩm chướng có khả năng ra rễ cao và chất lượng cây giống tốt nhất ở 2 thời vụ: vụ xuân (tháng 3 - 4) và vụ thu (tháng 8 - 9). Tuy nhiên thời vụ giâm phù hợp nhất vào tháng 8 - 9, ở thời vụ giâm này sẽ có cây giống trồng vào tháng 9 - 10 (là thời vụ chính trồng cẩm chướng). 
+_subtitle: 
+b.  Chuẩn bị nhà giâm
+_content: 
+Điều kiện nhà giâm cành: tương tự như nhà trồng cây mẹ. 
+_subtitle: 
+c. Chuẩn bị giá thể giâm
+_content: 
+Giá thể giâm cẩm chướng tốt nhất là trấu hun, nếu không có trấu hun có thể thay thế bằng cát sạch. Giá thể được xử lý trước khi giâm bằng Zineb hoặc Daconil 75 WP liều lượng 10 - 15ml/ bình 10 lít phun trực tiếp vào giá thể .  
+_subtitle: 
+d. Chọn, ngắt ngọn giâm
+_content: 
+Chọn ngọn trên cây mẹ không bị sâu bệnh, không dị dạng xanh tốt có chiều dài từ 8 - 10 cm; 6 - 8 lá; đường kính thân: 0,4 - 0,5 cm, sau đó dùng dao cắt ngang cành. 
+_subtitle: 
+đ.  Xử lý thuốc
+_content: 
+Sử dụng dung dịch ra rễ α-NAA với nồng độ 1000 ppm để xử lý cành trước khi giâm bằng cách nhúng ngập phần gốc từ 1 - 2 cm, trong thời gian từ 3 - 5 giây rồi tiến hành giâm vào giá thể. 
+_subtitle: 
+e. Kỹ thuật giâm:
+_content: 
+- Giâm trên luống: Luống rộng 1 - 1,2 m, cao 20 – 25 cm, rãnh rộng 30 – 40 cm. Rải đều hỗn hợp giá thể phẳng trên mặt luống dày 10 - 15cm,  khoảng cách: hàng cách hàng 5 cm; cây cách cây 3 cm.  
+_content: 
+- Giâm trên khay: Khay giâm có kích thước 40 x 60 cm, có 70 lỗ, đường kính lỗ 5cm, chiều sâu lỗ 5cm. Cho giá thể vào đầy miệng lỗ, mỗi lỗ cắm 2 cành. 
+_content: 
+Chú ý: Dùng tay cắm cành thẳng đứng, sâu khoảng 1,5 - 2cm.  
+_subtitle: 
+3. Chăm sóc cây giâm
+_content: 
+Sau khi giâm, tưới đẫm nước bằng cách tưới trực tiếp hoặc phun lên cây, trong 7 - 10 ngày đầu tưới 5 - 7 lần/ngày, để luôn đảm bảo độ ẩm giá thể đạt 90%, sau đó giảm dần lần tưới 4 - 5 lần/ngày (độ ẩm giá thể đạt 70 - 80%). Nếu giâm bằng cát thì số lần tưới ít hơn, (4 - 5 lần sau đó giảm còn 3 - 4 lần/ngày). 
+_content: 
+Trong thời gian giâm (từ 20 - 25 ngày) phun thuốc phòng bệnh 1 - 2 lần bằng các loại Score 250 EC liều lượng 5 – 10 ml/bình 10 lít, hoặc Daconil 75 WP liều lượng 10 - 15ml/bình 10 lít, kết hợp phun bổ sung phân bón lá Komix - BFC.201 liều lượng 20 - 30 ml/bình 10 lít và có thể sử dụng một số loại thuốc khác theo hướng dẫn của ngành Bảo vệ thực vật. 
+_subtitle: 
+4. Tiêu chuẩn cây xuất vườn
+_content: 
+Sau giâm 20 - 25 ngày, cây xanh tốt; sạch bệnh không có biểu hiện ra nụ, có chiều cao 8 – 10 cm; 6 - 8 lá; đường kính thân 0,4- 0,5 cm; rễ dài 1 - 3 cm, số lượng rễ đạt trên 4 rễ ra đều xung quanh là có thể đem trồng ngoài sản xuất.  
+_subtitle: 
+5. Nhổ cây và bao gói
+_content: 
+Một ngày trước khi nhổ cây đi trồng, tưới đẫm nước để khi nhổ rễ cây  không bị đứt. Dùng giấy gói bao quanh chặt bầu và vừa kín bộ lá để tránh bị tổn thương cây, gói 100 cây/1 bó. Nên nhổ cây vào những ngày râm mát hay vào buổi chiều. Để vận chuyển đi xa, xếp vào thùng carton, đục lỗ xung quanh thùng để đảm bảo được thông thoáng. 

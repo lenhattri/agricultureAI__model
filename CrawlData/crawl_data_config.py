@@ -1,5 +1,13 @@
 
 '''
+    _Hướng dẫn sử dụng_
+    Hãy tạo 3 file txt là RAW_URL_FILENAME, NO_SUBTITLE_URL_FILENAME, SUBTITLE_URL_FILENAME
+    Rồi chép url cần crawl data vào RAW_URL_FILENAME
+    Thay đổi thư mục của PATH_NO_SUBTITLE_DATA_TEXT
+'''
+
+
+'''
     Tên file url tổng hợp, còn thô chưa phân loại
 '''
 RAW_URL_FILENAME = "raw_url.txt"
@@ -15,3 +23,25 @@ NO_SUBTITLE_URL_FILENAME = "no_title_url.txt"
 '''
 SUBTITLE_URL_FILENAME = "title_url.txt"
 
+'''
+    Tên file có chứa các url bị lỗi khi vận, cần xem xét lại sau
+'''
+ERROR_URL_FILENAME = "error_url.txt"
+
+
+'''
+    Đường dẫn đến nơi chứa dữ liệu text
+    Cái này có thể sử a tùy theo máy
+    Hãy đặt nó trước khi chạy phương thức crawlDataNormal
+'''
+
+PATH_NO_SUBTITLE_DATA_TEXT = '/home/rikka/Project/Agriculture_AI/venv/src/CrawlData/DataText/DataNoSubtitle'
+PATH_SUBTITLE_DATA_TEXT = '/home/rikka/Project/Agriculture_AI/venv/src/CrawlData/DataText/DataSubtitle'
+
+'''
+    Để phân biệt title và content trong file text
+'''
+
+TITLE = '_title: '
+CONTENT = '_content: '
+SUBTITLE = '_subtitle: '
