@@ -1,6 +1,8 @@
 _title: 
 Biện pháp phòng trừ bệnh lùn sọc đen hại ngô, lúa vụ Đông Xuân
-_content: 
+_content:
+Bệnh lùn sọc đen hại lúa, ngô là bệnh do virus gây ra, có khả năng gây mất trắng trên diện tích lớn. Bệnh bắt đầu gây hại nặng từ vụ mùa năm 2017 đến nay tại nhiều tỉnh phía Bắc mà không có thuốc phòng trừ.
+_content:
 Vì vậy để hạn chế tối đa ảnh hưởng của bệnh, bảo vệ tốt năng suất lúa, ngô vụ Đông Xuân, người nông dân cần thiết có những hiểu biết chung về bệnh và áp dụng đồng bộ các biện pháp kỹ thuật phòng trừ kịp thời ngay từ đầu vụ. 
 _subtitle: 
 1. Triệu chứng gây hại
@@ -74,7 +76,4 @@ _content:
 Nếu xuất hiện rầy lưng trắng, rầy nâu nhỏ trên ruộng, tiến hành phun thuốc trừ rầy trên ruộng bị bệnh và các ruộng xung quanh bằng một trong các thuốc: Virtako 40WG, Sairifos 585EC, Alika247ZC, hay các thuốc khác có trong danh mục thuốc bảo vệ thực vật đăng ký trừ đối tượng này. Phun theo hướng dẫn ghi trên nhãn thuốc. 
 _content: 
 Những diện tích ngô bị nặng, không còn khả năng cho năng suất cần tiến hành tiêu hủy cả ruộng bằng cách nhổ bỏ, tiêu hủy cây bị bệnh. 
-_subtitle: 
-Hồng Minh
-_subtitle: 
-Sở Nông nghiệp và PTNT Hòa Bình
+
