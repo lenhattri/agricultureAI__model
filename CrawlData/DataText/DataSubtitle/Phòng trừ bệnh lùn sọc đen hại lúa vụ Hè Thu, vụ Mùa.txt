@@ -18,8 +18,6 @@ _subtitle:
 d) Giai đoạn lúa trỗ bông: 
 _content: 
 Những khóm lúa bị nhiễm bệnh sớm sẽ thối rễ từ giai đoạn phân hóa đòng và bị lùn, lụi; những khóm lúa bị nhiễm bệnh muộn hơn có hiện tượng trỗ nghẹn đòng (lá đòng bị gập, xoắn, ngắn) hoặc không trỗ thoát; những bông trỗ thoát nhiều hạt bị lép đen. Các u sáp trên lóng thân chuyển từ màu trắng sang màu nâu, đen; mặt dưới lá, bẹ lá nổi rõ các nốt sần. Những dảnh nhiễm bệnh muộn sẽ biểu hiện các triệu chứng giống như giai đoạn đẻ nhánh ở trên các lá phía trên, nhất là lá đòng. 
-_content: 
-  
 _subtitle: 
 2. Biện pháp quản lý bệnh lùn sọc đen trong vụ Hè thu, vụ Mùa
 _subtitle: 
@@ -67,11 +65,11 @@ _content:
 _subtitle: 
 e) Trừ rầy lưng trắng và tiêu hủy nguồn bệnh
 _content: 
-- Ngay từ khi gieo mạ, sạ hoặc cấy lúa:   nếu phát hiện rầy lưng trắng di trú mang vi-rút gây bệnh lùn sọc đen cần phải phun thuốc trừ rầy ngay (nếu có rầy lưng trắng trên ruộng) để diệt nguồn rầy mang vi-rút, hạn chế lan truyền bệnh. 
+- Ngay từ khi gieo mạ, sạ hoặc cấy lúa: nếu phát hiện rầy lưng trắng di trú mang vi-rút gây bệnh lùn sọc đen cần phải phun thuốc trừ rầy ngay (nếu có rầy lưng trắng trên ruộng) để diệt nguồn rầy mang vi-rút, hạn chế lan truyền bệnh. 
 _content: 
-- Giai đoạn lúa đẻ nhánh:   tiếp tục kiểm tra, nếu phát hiện rầy lưng trắng non (rầy cám) thì phun thuốc khi rầy lưng trắng đa số ở tuổi 1-3 để hạn chế số lượng môi giới lan truyền bệnh. 
+- Giai đoạn lúa đẻ nhánh: tiếp tục kiểm tra, nếu phát hiện rầy lưng trắng non (rầy cám) thì phun thuốc khi rầy lưng trắng đa số ở tuổi 1-3 để hạn chế số lượng môi giới lan truyền bệnh. 
 _content: 
-* Tiêu hủy cây lúa bị bệnh:    Thăm ruộng thường xuyên để phát hiện và nhổ tỉa tiêu hủy (vùi xuống bùn) ngay các khóm, dảnh lúa bị bệnh; ruộng lúa giai đoạn trước đứng cái có trên 30% số dảnh lúa bị bệnh thì tiến hành tiêu hủy ngay cả ruộng bằng cách cày vùi diệt mầm bệnh; trước khi cày vùi phải phun thuốc trừ rầy lưng trắng (nếu có) để ngăn chặn nguồn bệnh phát tán sang ruộng khác. Chỉ cấy, sạ lại nếu còn kịp lịch thời vụ do cơ quan chuyên môn và chính quyền địa phương quy định. 
+* Tiêu hủy cây lúa bị bệnh: Thăm ruộng thường xuyên để phát hiện và nhổ tỉa tiêu hủy (vùi xuống bùn) ngay các khóm, dảnh lúa bị bệnh; ruộng lúa giai đoạn trước đứng cái có trên 30% số dảnh lúa bị bệnh thì tiến hành tiêu hủy ngay cả ruộng bằng cách cày vùi diệt mầm bệnh; trước khi cày vùi phải phun thuốc trừ rầy lưng trắng (nếu có) để ngăn chặn nguồn bệnh phát tán sang ruộng khác. Chỉ cấy, sạ lại nếu còn kịp lịch thời vụ do cơ quan chuyên môn và chính quyền địa phương quy định. 
 _content: 
 - Giai đoạn lúa đứng cái trở đi:   Những ruộng, khu vực đã phát hiện rầy lưng trắng mang vi-rút cần phun trừ thì phải phun thuốc khi rầy cám lứa kế tiếp nở rộ; những ruộng, khu vực còn lại thường xuyên tổ chức điều tra, khoanh vùng, chỉ đạo phun thuốc trừ rầy lưng trắng những nơi có mật độ từ 1.000 con/m2 trở lên (đối với lúa trước trỗ) hoặc có mật độ từ 2.000 con/m2 trở lên (đối với lúa sau trỗ) khi rầy đa số tuổi 1 -3. Thường xuyên kiểm tra, nhổ vùi dảnh, khóm lúa bị bệnh. 
 _content: 
