@@ -1,9 +1,5 @@
 _title: 
 Kỹ thuật gây trồng cây bạch đàn Caman
-_content: 
-Ở Việt Nam, loài này được nhập vào và trồng một thời gian dài ở các vùng đồi thấp từ Bắc vào Nam. Cây mọc nhanh, có biên độ sinh thái rộng, chịu khô và ngập úng trong thời gian ngắn, phù hợp với sinh trưởng và phát triển trên nhiều loại đất, kể cả đất phèn chua. Hiện nay, loài này được trồng rất rộng rãi ở các tỉnh phía Nam và Trung Bộ để cung cấp nguyên liệu cho công nghiệp giấy.  
-_content: 
-   
 _subtitle: 
 - Điều kiện gây trồng
 _content: 
