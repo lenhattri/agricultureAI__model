@@ -1,7 +1,7 @@
 _title: 
 Kỹ thuật trồng thâm canh trám đen bằng cây ghép
 _subtitle: 
-1. 
+1. Xử lý thực bì
 _content: 
 Phát dọn toàn diện thực bì để hạn chế cỏ dại, sâu bệnh và tránh cạnh tranh dinh dưỡng. 
 _subtitle: 
