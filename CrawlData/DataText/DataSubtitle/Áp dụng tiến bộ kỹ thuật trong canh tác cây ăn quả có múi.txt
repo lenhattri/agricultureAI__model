@@ -21,22 +21,17 @@ Ví dụ: Đối với cây ăn quả có múi 5 đến 10 năm tuổi; Cuốc t
 _content: 
 + Bón bổ sung phân bón tổng hợp NPK bón lót sau khi thu hoạch quả và phân bón tổng hợp NPK bón thúc trong giai đoạn ra hoa, đậu quả và giai đoạn quả lớn... (chú ý sử dụng phân bón tổng hợp NPK ở các thời kỳ sau thu hoạch, ra hoa, đậu quả, quả lớn, quả chín sinh lý...). 
 _content: 
-+ Thường xuyên bón bổ sung phân hữu cơ và phân hữu cơ vinh sinh; Hiện nay một số nhà vườn đã chuyển đổi sử dụng phân hữu cơ và phân hữu cơ vi sinh lên đến 70% so với lượng phân bón hằng năm cho cây ăn quả có múi. Việc sử dụng phân hữu cơ giúp cải thiện và ổn định kết cấu của đất, làm cho đất tơi xốp, thoáng khí; Cung cấp nguồn dinh dưỡng tổng hợp cho đất, làm dinh dưỡng trở thành dạng dễ hấp thu, tăng cường giữ phân cho đất; Tăng cường hoạt động của vi sinh vật trong đất, tăng cường “sức khỏe” của đất. Đất sẽ gần như trở thành “đất chết” nếu hệ vi sinh vật đất không hoạt động được. 
-_content: 
-
-   
- Đất trồng cây ăn quả có múi phải được cải tạo thường xuyên  
- 
++ Thường xuyên bón bổ sung phân hữu cơ và phân hữu cơ vinh sinh; Hiện nay một số nhà vườn đã chuyển đổi sử dụng phân hữu cơ và phân hữu cơ vi sinh lên đến 70% so với lượng phân bón hằng năm cho cây ăn quả có múi. Việc sử dụng phân hữu cơ giúp cải thiện và ổn định kết cấu của đất, làm cho đất tơi xốp, thoáng khí; Cung cấp nguồn dinh dưỡng tổng hợp cho đất, làm dinh dưỡng trở thành dạng dễ hấp thu, tăng cường giữ phân cho đất; Tăng cường hoạt động của vi sinh vật trong đất, tăng cường “sức khỏe” của đất. Đất sẽ gần như trở thành “đất chết” nếu hệ vi sinh vật đất không hoạt động được.   
 _subtitle: 
 - Tưới nước và tiêu nước:
+_content: 
+Ứng dụng công nghệ tưới tiết kiệm để quản lý độ ẩm; Điều độ nước trong vườn cây ăn quả có múi cần hợp lý, nhất là vào thời kỳ ra hoa đậu quả cần phải giữ đủ ẩm khi vườn khô và thoát nước kịp thời khi trong vườn đọng nước (chú ý tưới nước trong thời kỳ phân hóa mầm hoa, ra hoa và đậu quả non...; tiêu thoát nước trong giai đoạn mùa mưa).
 _content: 
 - Phòng trừ sâu bênh hại và phun phân bón lá cho cây ăn quả có múi ở từng thời kỳ, chỉ sử dụng thuốc bảo vệ thực vật khi đối tượng sâu bệnh hại xuất hiện và đến ngưỡng cần phải phòng trừ (chú trọng đến các thời kỳ: sau thu hoạch, ra hoa, đậu quả, quả lớn...). Việc phòng trừ sâu bệnh hại trên cây ăn quả có múi phải kịp thời, đúng đối tượng và đúng thời điểm. 
 _content: 
 Tăng cường áp dụng biện pháp sinh học trong phòng chống sâu bệnh hại cây ăn quả có múi. 
 _content: 
 Hỗ trợ nông dân trồng cây ăn quả có múi áp dụng các quy trình kỹ thuật xây dựng vườn cây ăn quả có múi năng suất, chất lượng (ICM): từ trồng mới, bón phân, chăm sóc, tưới nước, thu hoạch, bảo quản, đóng gói sản phẩm,... 
-_content: 
-  
 _subtitle: 
 * Một số biện pháp hỗ trợ cho cây ăn quả có múi ra hoa đậu quả tốt:
 _content: 
