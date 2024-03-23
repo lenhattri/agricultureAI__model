@@ -1,7 +1,5 @@
 _title: 
 Một số giống rau lai F1 thích hợp gieo trồng ở miền Nam
-_content: 
-Qua thời gian thực hiện, đề tài đã tạo được 5 giống lai F1 mới được Hội đồng Khoa học của Cục Trồng trọt công nhận kết quả nghiên cứu, bao gồm: 
 _subtitle: 
 1. Giống dưa leo lai F1 LĐ7
 _subtitle: 
@@ -11,7 +9,7 @@ Giống dưa leo F1 LĐ7 được lai tạo từ 2 dòng bố mẹ D12 và D77. 
 _content: 
 Giống dưa leo F1 LĐ7 sinh trưởng mạnh, thích hợp trồng nhiều vụ trong năm. Giống có khả năng phân nhánh trung bình, hoa cái tập trung trên thân chính, cho thu hoạch quả sớm sau trồng 33 ngày, vỏ quả màu xanh đậm, dạng quả thon dài, gai quả trắng, trọng lượng quả 120 g, dài quả 16 cm, đường kính 3,8 cm, thịt quả giòn. Giống cho năng suất cao, đạt trung bình 35 - 40 tấn/ha, có khả năng chống chịu bệnh đốm phấn và bệnh do vius.  
 _subtitle: 
-1.2. 
+1.2. Yêu cầu về kỹ thuật
 _content: 
 Dưa leo F1 LĐ7 có thể trồng quanh năm nhưng tốt nhất là trồng vào vụ đông xuân và đầu mùa mưa tại các tỉnh miền Nam. 
 _content: 
