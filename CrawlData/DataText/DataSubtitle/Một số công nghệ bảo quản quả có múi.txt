@@ -61,11 +61,11 @@ Sau khi phủ chế phẩm, quả cam, bưởi được để khô tự nhiên h
 _content: 
 - Bao gói: 
 _content: 
-Cam sau khi phủ chế phẩm và để khô được bảo quản trong thùng carton kích thước: dài × rộng × cao = 50 × 28 × 30 (cm), ở 2 đầu thùng có đục lỗ thông khí đường kính khoảng 30 mm. Đặc biệt, cam, bưởi sẽ được bảo quản tốt hơn khi thùng carton được tráng thêm lớp parafin + EVA ở mặt trong của thùng. Mỗi thùng có thể bảo quản được 25 - 30 kg quả cam và 15 - 20 quả bưởi.  
+Cam sau khi phủ chế phẩm và để khô được bảo quản trong thùng carton kích thước: dài × rộng × cao = 50 × 28 × 30 (cm), ở 2 đầu thùng có đục lỗ thông khí đường kính khoảng 30 mm. Đặc biệt, cam, bưởi sẽ được bảo quản tốt hơn khi thùng carton được tráng thêm lớp parafin + EVA ở mặt trong của thùng. Mỗi thùng có thể bảo quản được 25 - 30 kg quả cam và 15- 20 quả bưởi.  
 _content: 
 - Xếp kho bảo quản: 
 _content: 
-Kho bảo quản cam, bưởi phải đảm bảo rộng rãi, nền nhà cao ráo, không bị ẩm ướt, có lỗ thoáng thông gió hoặc lắp đặt thêm quạt thông gió. Duy trì độ ẩm trong kho bảo quản ở mức 70 - 85%, nhiệt độ 22 - 25 o  C (nhiệt độ phòng). 
+Kho bảo quản cam, bưởi phải đảm bảo rộng rãi, nền nhà cao ráo, không bị ẩm ướt, có lỗ thoáng thông gió hoặc lắp đặt thêm quạt thông gió. Duy trì độ ẩm trong kho bảo quản ở mức 70 - 85%, nhiệt độ 22 - 25 oC (nhiệt độ phòng). 
 _content: 
 Trước khi xếp cam vào bảo quản thì nhà kho phải được vệ sinh nền nhà, tường bao, trần nhà sạch sẽ. Nên sử dụng nước Clorin để vệ sinh nền nhà. Nền nhà được lót bằng một tấm vải bạt. 
 _content: 
@@ -73,7 +73,7 @@ Thường xuyên theo dõi quả trong bảo quản, có thể 7 - 10 ngày/lầ
 _subtitle: 
 * Bảo quản bằng kho 
 _content: 
-Nhiệt độ bảo quản cam, bưởi yêu cầu trong khoảng từ 2 - 8 o  C. Cam bưởi đưa vào bảo quản cần được thu hoạch đúng độ tuổi, lau sạch bằng khăn ướt để ráo, sau đó bọc kín bằng nylon trước khi đưa vào kho lạnh. Lắp đặt kho lạnh bảo quản cam, bưởi cần đảm bảo kiểm soát được nhiệt độ, ẩm độ trong kho bảo quản. 
+Nhiệt độ bảo quản cam, bưởi yêu cầu trong khoảng từ 2 - 8 oC. Cam bưởi đưa vào bảo quản cần được thu hoạch đúng độ tuổi, lau sạch bằng khăn ướt để ráo, sau đó bọc kín bằng nylon trước khi đưa vào kho lạnh. Lắp đặt kho lạnh bảo quản cam, bưởi cần đảm bảo kiểm soát được nhiệt độ, ẩm độ trong kho bảo quản. 
 _content: 
 Kho lạnh bảo quản cam, bưởi tươi với số lượng quả lớn, quả được tươi lâu hơn (vài tháng) và không làm mất đi hương vị của quả. Công nghệ bảo quản quả cam, bưởi bằng kho lạnh được coi là công nghệ tiên tiến và tối ưu nhất hiện nay với chi phí rất rẻ nếu tính theo thời gian và hiệu quả bảo quản mang lại. 
 _content: 
@@ -81,7 +81,7 @@ Quả cam bưởi được thu hoạch vào lúc trời mát, nhẹ nhàng, trá
 _content: 
 Sau khi thu hoạch, phân loại quả theo từng loại theo trọng lượng và loại bỏ quả hỏng, có vết côn trùng cắn, dập, trầy xước, thâm đen trên vỏ. 
 _content: 
-Xử lý vi khuẩn, nấm và làm khô bớt 1 phần. Sau khi phân loại, quả cam, bưởi được nhúng qua dung dịch Natrihipoxlorit 1% và để khô. Tiếp đó nhúng trong dung dịch Citrashine, để khô tự nhiên hoặc dùng quạt thổi hoặc dùng bao Wrapping. Nên bao quả bằng lớp lưới Polosliren tránh va chạm khi vận chuyển, đặt quả trong thùng carton 3 lớp. Cho các thùng đựng quả cam bưởi vào kho lạnh bảo quản ở nhiệt độ 10 o  C, ẩm độ 85 - 90%. 
+Xử lý vi khuẩn, nấm và làm khô bớt 1 phần. Sau khi phân loại, quả cam, bưởi được nhúng qua dung dịch Natrihipoxlorit 1% và để khô. Tiếp đó nhúng trong dung dịch Citrashine, để khô tự nhiên hoặc dùng quạt thổi hoặc dùng bao Wrapping. Nên bao quả bằng lớp lưới Polosliren tránh va chạm khi vận chuyển, đặt quả trong thùng carton 3 lớp. Cho các thùng đựng quả cam bưởi vào kho lạnh bảo quản ở nhiệt độ 10 oC, ẩm độ 85 - 90%. 
 _subtitle: 
 * Công nghệ bảo quản CAS
 _content: 
