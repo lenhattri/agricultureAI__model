@@ -1,11 +1,5 @@
 _title: 
-Lưu ý trong chăm sóc lúa sạ khóm
-_content: 
-Với kết quả vượt xa về năng suất và hiệu quả kinh tế của ruộng lúa sạ theo khóm so với các hình thức xuống giống khác (cấy, sạ hàng, sạ lan…), thời gian gần đây hình thức sạ lúa theo khóm đã được nông dân vùng Đồng bằng sông Cửu Long đặc biệt quan tâm. Theo đó, hình thức sạ lúa theo khóm cũng đã được Chương trình canh tác lúa thông minh thích ứng với biến đổi khí hậu (chương trình phối hợp giữa TTKN Quốc gia và Công ty Cổ phần Phân bón Bình Điền) lồng ghép vào mô hình canh tác lúa thông minh trong kế hoạch thực hiện năm 2022. 
-_content: 
-Ruộng lúa sạ theo khóm 35 ngày tuổi (40 kg/ha) của hộ Lê Văn Hải tại Cái Bè – Tiền Giang vụ ĐX 2021 - 2022  
-_content: 
-Tuy nhiên, mỗi một tiến bộ kỹ thuật mới nói chung và hình thức sạ lúa theo khóm nói riêng đều có yêu cầu về kỹ thuật cần tuân thủ, bằng không có thể không đạt được mục tiêu đề ra, thâm chí có thể còn thua xa các hình thức xuống giống khác… 
+Lưu ý trong chăm sóc lúa sạ khóm 
 _content: 
 Trước hết, chúng ta đã biết bài toán về năng suất ruộng lúa: Để đạt được năng suất cao thì ruộng lúa cần phải có nhiều bông và bông to, nhiều hạt. 
 _content: 
