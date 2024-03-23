@@ -9,7 +9,7 @@ _content:
 _content: 
 - Mái nhà lợp bằng nylon chuyên dụng màu trắng, đảm bảo đủ ánh sáng, hạn chế tia tử ngoại, có lớp che nắng bằng lưới cản quang 50%. 
 _content: 
-- Xung quanh sử dụng lưới chống côn trùng màu trắng, 50- 70 lỗ/cm 2  . 
+- Xung quanh sử dụng lưới chống côn trùng màu trắng, 50 - 70 lỗ/cm 2  . 
 _content: 
 - Có hệ thống tưới nước bằng vòi phun tay hoặc tự động. 
 _subtitle: 
@@ -83,4 +83,4 @@ Sau giâm 20 - 25 ngày, cây xanh tốt; sạch bệnh không có biểu hiện
 _subtitle: 
 5. Nhổ cây và bao gói
 _content: 
-Một ngày trước khi nhổ cây đi trồng, tưới đẫm nước để khi nhổ rễ cây  không bị đứt. Dùng giấy gói bao quanh chặt bầu và vừa kín bộ lá để tránh bị tổn thương cây, gói 100 cây/1 bó. Nên nhổ cây vào những ngày râm mát hay vào buổi chiều. Để vận chuyển đi xa, xếp vào thùng carton, đục lỗ xung quanh thùng để đảm bảo được thông thoáng. 
+Một ngày trước khi nhổ cây đi trồng, tưới đẫm nước để khi nhổ rễ cây không bị đứt. Dùng giấy gói bao quanh chặt bầu và vừa kín bộ lá để tránh bị tổn thương cây, gói 100 cây/1 bó. Nên nhổ cây vào những ngày râm mát hay vào buổi chiều. Để vận chuyển đi xa, xếp vào thùng carton, đục lỗ xung quanh thùng để đảm bảo được thông thoáng. 
