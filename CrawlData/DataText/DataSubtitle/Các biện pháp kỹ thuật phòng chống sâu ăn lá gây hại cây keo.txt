@@ -1,7 +1,5 @@
 _title: 
 Các biện pháp kỹ thuật phòng chống sâu ăn lá gây hại cây keo
-_content: 
-Do vậy, đòi hỏi phải có biện pháp quản lý tổng hợp, bao gồm áp dụng biện pháp lâm sinh, biện pháp vật lý (bẫy mồi) và biện pháp sử dụng thuốc bảo vệ thực vật nhằm hạn chế sự gây hại của sâu ăn lá hại keo, góp phần nâng cao năng suất, chất lượng gỗ và quản lý rừng trồng keo bền vững trong cả nước. 
 _subtitle: 
 1. Biện pháp lâm sinh
 _content: 
@@ -9,9 +7,9 @@ _content:
 _content: 
 Với rừng dưới 3 tuổi áp dụng biện pháp kỹ thuật lâm sinh xới đất, vun gốc quanh gốc cây để diệt trừ sâu non và nhộng kết hợp với bón phân trong quá trình chăm sóc. Chú ý tại những cây có tán lá bị hại rõ rệt hoặc có nhiều phân sâu. 
 _content: 
-Bón thúc NPK với liều lượng 200 gram/gốc hoặc chế phẩm vi sinh với liều lượng 500 gram/gốc vào đầu năm thứ 2 kết hợp với xới đất, vun gốc. Phân được3 
+Bón thúc NPK với liều lượng 200 gram/gốc hoặc chế phẩm vi sinh với liều lượng 500 gram/gốc vào đầu năm thứ 2 kết hợp với xới đất, vun gốc.  
 _content: 
-trộn đều phân với đất, lấp đất phủ kín lên trên mỗi rạch, sâu từ 08 - 10 cm, rộng từ 10 - 15 cm, cách gốc cây 40 - 50 cm. 
+Phân được trộn đều phân với đất, lấp đất phủ kín lên trên mỗi rạch, sâu từ 08 - 10 cm, rộng từ 10 - 15 cm, cách gốc cây 40 - 50 cm. 
 _content: 
 Với rừng từ 3 năm tuổi trở lên tiến hành vệ sinh thực bì toàn diện, hạn chế lớp thảm khô quanh gốc cây, tuân thủ theo hướng dẫn kỹ thuật chăm sóc rừng hiện hành, tránh làm tổn thương cây và rễ. 
 _subtitle: 
@@ -41,7 +39,7 @@ Sử dụng các loại thuốc bảo vệ thực vật có các hoạt chất n
 _content: 
 Sử dụng bình phun tích điện hoặc bình phun tay để phun ướt lên toàn bộ tán lá và quanh gốc cây vào sáng sớm hoặc chiều mát, trời không có mưa. Nếu sau lần phun thứ nhất từ 10 - 15 ngày điều tra vẫn thấy có sâu ăn lá thì phun tiếp lần hai. 
 _content: 
-Lưu ý   :   Thuốc bảo vệ thực vật hóa học có chứa các hoạt chất Cypermethrin và Emamectin benzoate và thuốc bảo vệ thực vật sinh học chứa nấm Beauveria bassiana và Metarhizium anisopliae chỉ được khuyến cáo sử dụng sau khi được đăng ký vào Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam để phòng chống sâu ăn lá cho cây keo. 
+Lưu ý: Thuốc bảo vệ thực vật hóa học có chứa các hoạt chất Cypermethrin và Emamectin benzoate và thuốc bảo vệ thực vật sinh học chứa nấm Beauveria bassiana và Metarhizium anisopliae chỉ được khuyến cáo sử dụng sau khi được đăng ký vào Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam để phòng chống sâu ăn lá cho cây keo. 
 _content: 
 Bên cạnh đó, thường xuyên tiến hành công tác điều tra, theo dõi định kỳ. Theo đó, điều tra sâu ăn lá vào thời gian từ tháng 3 đến tháng 6. Đây là các thời gian các loài sâu ăn lá hoạt động và gây hại chủ yếu trong năm. Tiến hành điều tra các giai đoạn phát triển của sâu ăn lá: sâu non và giai đoạn trưởng thành. Điều tra trong các ô tiêu chuẩn có diện tích 500 m2 và đảm bảo trong mỗi ô tiêu chuẩn có ít nhất 30 cây ở rừng trồng keo tai tượng, keo lai và keo lá tràm, ô tiêu chuẩn phải đại diện cho khu vực điều tra. 
 _content: 
