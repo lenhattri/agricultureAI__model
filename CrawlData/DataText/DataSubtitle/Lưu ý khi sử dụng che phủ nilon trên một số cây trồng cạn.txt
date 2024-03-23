@@ -1,11 +1,7 @@
 _title: 
 Lưu ý khi sử dụng che phủ nilon trên một số cây trồng cạn
 _content: 
-Trong những năm qua, trong quá trình canh tác một số loài cây trồng cạn như ngô, lạc, cà chua, cải bắp, su hào, dứa, bầu bí, cây dược liệu… người dân đã áp dụng phương pháp che phủ nilon.  
-_content: 
 Màng phủ nông nghiệp hay còn gọi là nilon, là vật liệu bằng nhựa dẻo, mỏng với hai màu khác nhau dùng để phủ lên mặt luống (liếp) cây trồng. Việc che phủ nilon giúp tiết kiệm được lượng nước tưới đáng kể, phù hợp với những vùng thường xuyên xảy ra hạn hán, thiếu nước. Che phủ nilon làm hạn chế thoát hơi nước trong đất, giúp cây trồng duy trì được độ ẩm đất đều và thường xuyên hơn; mặt khác làm tăng độ tơi xốp của đất, làm tăng nhiệt độ đất, nhất là trong thời vụ có nhiệt độ thấp, từ đó làm cho cây trồng sinh trưởng ổn định, cho năng suất cao hơn. Che phủ nilon giúp hạn chế cỏ dại, giảm bớt công làm cỏ, giảm chi phí sử dụng thuốc trừ cỏ, do đó làm giảm tác hại của thuốc trừ cỏ đối với đất canh tác, với môi trường và sự sinh trưởng của cây trồng… Một lợi ích nữa của che phủ nilon là hạn chế sự hóa kén của một số loại sâu trong đất, hạn chế nấm bệnh từ đất lây nhiễm lên thân lá do tác động của mưa, làm giảm sử dụng thuốc bảo vệ thực vật. 
-_content: 
-  
 _content: 
 Tuy nhiên, ngoài những lợi ích mang lại, khi sử dụng che phủ nilon nếu không chú ý thực hiện đúng kỹ thuật sẽ gây bất lợi đối với sinh trưởng và năng suất của cây trồng, thậm chí gây chết cây. Vì vậy khi sử dụng cần một số lưu ý sau:  
 _content: 
@@ -20,7 +16,3 @@ _content:
 Nếu nilon sau khi sử dụng mà không còn khả năng tái sử dụng, cần thu gom để đưa vào xử lý rác thải. Tuyệt đối không được chôn sâu trong đất hoặc đốt. Nilon sau khi đốt sẽ tạo ra khí thải có chứa chất độc gây ngộ độc, khó thở, giảm khả năng miễn dịch, rối loạn chức năng hô hấp và gây một số bệnh ở trẻ nhỏ. Nếu chôn nilon trong đất, sau hàng trăm năm vẫn không phân hủy được nên ảnh hưởng rất lớn đến môi trường đất sản xuất. 
 _content: 
 Từ những lợi ích và những hạn chế khi sử dụng che phủ nilon trong canh tác nông nghiệp đối với một số loài cây trồng cạn; người sản xuất cần căn cứ vào điều kiện canh tác của từng vùng, từng loại đất canh tác, chủng loại cây trồng, mùa vụ… để áp dụng biện pháp che phủ nilon đúng kỹ thuật và phù hợp, nhằm mang lại lợi ích kinh tế cao đối với một số loài cây trồng cạn tại địa phương. 
-_subtitle: 
-Phạm Văn Phú
-_subtitle: 
-Chi cục Trồng trọt và Bảo vệ thực vật Hà Giang
